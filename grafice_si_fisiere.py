@@ -1,4 +1,4 @@
-Creează un program Python care generează un set de date simplu, îl salvează într-un fișier CSV și apoi creează un grafic din aceste date folosind biblioteca Matplotlib.import pandas as pd
+#Creează un program Python care generează un set de date simplu, îl salvează într-un fișier CSV și apoi creează un grafic din aceste date folosind biblioteca Matplotlib.import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 # Generarea unui set de date simplu
@@ -86,3 +86,4 @@ Crearea unui grafic din datele salvate
     plt.xlabel('X')
     plt.ylabel('Y')
     plt.grid()
+
